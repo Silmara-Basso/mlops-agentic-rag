@@ -55,7 +55,7 @@ deactivate
 
 
 ## Resposta da App usando somente o Modelo Hernes 3
-![Modelo](/images/somente%20modelo.png)
+![Modelo](/images/somenteModelo.png)
 
 ## Resposta da App usando RAG
 ![RAG1](/images/RAG.png)
